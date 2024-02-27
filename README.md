@@ -115,9 +115,9 @@ The backend of this application can be deployed to an AWS EC2 instance, while th
 
 Thanks to the following contributors for their valuable contributions to this project:
 
+- [Surya D (surya-d007)](https://github.com/surya-d007)
 - [Gurushik (Gururock007)](https://github.com/gururock007)
 - [Dharshan S (d-man1212)](https://github.com/d-man1212)
-- [Surya D (surya-d007)](https://github.com/surya-d007)
 - [Pragatheesh M (PragatheeshM)](https://github.com/PragatheeshM)
 
 Feel free to check out their profiles and contributions!
