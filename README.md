@@ -34,18 +34,22 @@ This web application is designed to help users discover new books based on their
 
 1. **Clone the repository:**
 
-```git clone https://github.com/d-man1212/Folio.git```
+```git clone https://github.com/surya-d007/Folio.git```
 
 2. **Navigate to the project directory:**
 
 ```cd Folio```
 
-2. **Navigate to the Frontend and Backend directories:**
+3. **Navigate to the Frontend and Backend directories:**
 
 ```cd Folio/Frontend```
 ```cd Folio/Backend```
 
-4. **Install dependencies:**
+4. **create your own .evn in both**
+   ```Frontend .env: for the authentication in fire base ```
+   ```Backend .evn :  mongo uri```
+
+6. **Install dependencies:**
 
 ```npm install```
 
