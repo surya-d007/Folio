@@ -46,6 +46,7 @@ This web application is designed to help users discover new books based on their
 ```cd Folio/Backend```
 
 4. **create your own .evn in both**
+
    ```Frontend .env: for the authentication in fire base ```
    ```Backend .evn :  mongo uri```
 
