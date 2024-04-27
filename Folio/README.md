@@ -34,7 +34,7 @@ This web application is designed to help users discover new books based on their
 
 1. **Clone the repository:**
 
-```git clone https://github.com/surya-d007/Folio.git```
+```git clone https://github.com/d-man1212/Folio.git```
 
 2. **Navigate to the project directory:**
 

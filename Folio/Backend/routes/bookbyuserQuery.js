@@ -11,6 +11,7 @@ const router = express.Router();
 
 const MODEL_NAME = "gemini-1.0-pro";
 const API_KEY = process.env.API_key_gemini;
+//const API_KEY = AIzaSyAsUKZrbkTmBbwWujrK1SRPM55C7O_Qezo;
 
 const genAI = new GoogleGenerativeAI(API_KEY);
 const model = genAI.getGenerativeModel({ model: MODEL_NAME });
